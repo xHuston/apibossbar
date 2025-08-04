@@ -6,9 +6,6 @@
   "autoload": {
     "classmap": ["src"]
   },
-  "require": {
-    "pocketmine/pocketmine-mp": "^5.0.0"
-  },
   "extra": {
     "virion":{
       "spec": "3.0",
